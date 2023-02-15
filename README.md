@@ -10,7 +10,7 @@ A simple Timer Toy app with MVVM Architecture for learning purposes.
 ## Technologies
 Project is created with:
 * DataBinding
-* StateFow
+* StateFlow
 * viewModel
 
 ## Screenshot
