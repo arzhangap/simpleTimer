@@ -1,7 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Screenshot](#screenshot
+* [Screenshot](#screenshot)
 * [Setup](#setup)
 
 ## General info
